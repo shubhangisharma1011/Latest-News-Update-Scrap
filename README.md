@@ -1,4 +1,4 @@
-# Latest-News-Update-Scrap
+# Latest-News-Update-Scrap using python requests html session
 Scrap the latest news update by using requests html session in python and show the scrap data details on local server
 Create virtualenv and activate it after that install requirements file (pip install -r requirements.txt)
 pip install requests-html
